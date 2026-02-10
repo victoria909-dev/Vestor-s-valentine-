@@ -1,5 +1,4 @@
-# Vestor-s-valentine-
-<!DOCTYPE html>
+# Vestor's-valentine-
 <html>
 <head>
 <title>Happy Valentine Vestor ❤️</title>

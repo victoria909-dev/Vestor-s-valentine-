@@ -109,7 +109,7 @@ And I’m sorry if I’ve ever been ungrateful in any way 😔.</p>
 and this little website made just for you 🥺💖</p>
 
 <h2>📸 A Special Memory</h2>
-<img src="https://i.imgur.com/7Y5O2YX.jpg" alt="Us Together" class="love-photo">
+<img src="IMG-20250905-WA0080.jpg" alt="Us Together" class="love-photo">
 
 <h2>💌 10 Reasons I Love You</h2>
 <ul>

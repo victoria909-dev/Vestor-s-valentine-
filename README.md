@@ -18,6 +18,7 @@ h1 {
 p {
   font-size: 20px;
   color: #4d0000;
+  margin: 15px 0;
 }
 
 .box {

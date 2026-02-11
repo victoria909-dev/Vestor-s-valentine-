@@ -83,9 +83,7 @@ ul {
 <!-- Background Music (Offline Ready) -->
 <audio autoplay loop>
   <source src="valentine-music.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
+  
 <!-- Floating hearts container -->
 <div id="hearts-container"></div>
 
